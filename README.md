@@ -17,7 +17,7 @@
 
 ```  
 USERNAME: 你的EUserv账户邮箱或Customer ID 第二个账户
-PASSWORD: 第一个账户密码 第二个账户密码
+PASSWORD: 第一个账户密码 第二个账户
 TOKEN: (可选)微信扫码免费登录 https://sre24.com 在「设置」页面复制值
 ```
 
